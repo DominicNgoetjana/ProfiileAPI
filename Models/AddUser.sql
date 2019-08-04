@@ -1,0 +1,2 @@
+﻿insert into ContactDetails(Name, Surname, IDNumber, PassportNUmber, MobileNumber, EmailAddress) values('Second', 'Thing', '2584651379852', '012365478952', '0826547852', 'another@email.com'); 
+select * from ContactDetails;
